@@ -29,13 +29,13 @@ Aplicação para agendar e gerenciar serviços de beleza, onde prestadores de se
 
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-** NodeJS **
-** ReactJS **
-** React-Native **
-** Express **
-** JWT **
-** Yup **
-** Styled-Components **
+**NodeJS**
+**ReactJS**
+**React-Native**
+**Express**
+**JWT**
+**Yup**
+**Styled-Components**
 
 ## Instalação e uso
 
