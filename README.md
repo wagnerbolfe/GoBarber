@@ -55,6 +55,8 @@ yarn start
 
 # Acesse http://localhost:3000 no seu navagador.
 
+-----------------------------------------------
+
 # Entre na pasta mobile com
 cd appgobarber
 
@@ -66,6 +68,8 @@ yarn android
 # Rode o aplicação
 yarn start
 
+-----------------------------------------------
+
 # Entre na pasta gobarber-web com
 cd gobarber-web
 
@@ -76,7 +80,5 @@ yarn
 yarn start
 
 ```
-
----
 
 Desenvolvido por Wagner Bolfe
